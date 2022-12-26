@@ -32,7 +32,7 @@ THEN the saved events persist
 
 ## Deployed Link
 
-
+https://jaydenprime.github.io/workday_scheduler/
 
 ## Screenshot
 
